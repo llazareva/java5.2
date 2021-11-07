@@ -64,6 +64,6 @@ class StatsServiceTest {
 
         long actual = StatsService.monthsAboveAverage(sales);
 
-        assertEquals(expected, actual);
+            assertEquals(expected, actual);
     }
 }
